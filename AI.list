@@ -1,9 +1,4 @@
-# 内容 OpenAi Bard anthropic claude
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
+# 内容 AI
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -25,4 +20,33 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,chat.com 
+DOMAIN-KEYWORD,openaicom-api
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# Microsoft Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+
+# 流行新锐 AI
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,llama.meta.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,poe.com
+
+# 开发者与效率类
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,fireworks.ai
+
+# 多媒体 AI 
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,lumaLabs.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,vop-default-runtime-vop.azureedge.net
