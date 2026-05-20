@@ -3,6 +3,15 @@
 PROCESS-NAME,terminal64.exe
 DST-PORT,1950
 
+# 核心补充：迈达克母服务器分发域名（MT5客户端下发、翻译自营公司服务器IP的核心通道）
+DOMAIN-SUFFIX,mql5.net
+DOMAIN-KEYWORD,metaquotes
+
+# 核心补充：自营公司品牌关键词拦截（防止其使用未公开的特定三级域名解析）
+DOMAIN-KEYWORD,ftmo
+DOMAIN-KEYWORD,the5ers
+DOMAIN-KEYWORD,fivepercenters
+
 # 既有域名规则保持不变
 DOMAIN-SUFFIX,icmarkets.com
 DOMAIN-SUFFIX,icm-apac-cn.com
