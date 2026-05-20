@@ -3,16 +3,16 @@
 PROCESS-NAME,terminal64.exe
 DST-PORT,1950
 
-# 核心补充：迈达克母服务器分发域名（MT5客户端下发、翻译自营公司服务器IP的核心通道）
+# 迈达克母服务器分发域名
 DOMAIN-SUFFIX,mql5.net
 DOMAIN-KEYWORD,metaquotes
 
-# 核心补充：自营公司品牌关键词拦截（防止其使用未公开的特定三级域名解析）
+# 自营公司品牌关键词拦截（防止其使用未公开的特定三级域名解析）
 DOMAIN-KEYWORD,ftmo
 DOMAIN-KEYWORD,the5ers
 DOMAIN-KEYWORD,fivepercenters
 
-# 既有域名规则保持不变
+# 域名
 DOMAIN-SUFFIX,icmarkets.com
 DOMAIN-SUFFIX,icm-apac-cn.com
 DOMAIN-SUFFIX,spotware.com
@@ -26,3 +26,9 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,PokePay.com
 DOMAIN-SUFFIX,PokePay.cc
 DOMAIN-SUFFIX,cmcmarkets.com
+
+# 考核公司的 443 纯 IP 流量
+IP-CIDR,35.197.0.0/16
+IP-CIDR,103.100.72.0/22
+IP-CIDR,119.42.60.0/22
+IP-CIDR,194.164.0.0/16
