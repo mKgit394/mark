@@ -1,0 +1,16 @@
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.google
+
+# Gemini API
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
+
+# Vertex AI（可选）
+DOMAIN-SUFFIX,vertexai.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
