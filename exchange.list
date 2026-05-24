@@ -2,6 +2,8 @@
 # 核心特征拦截：锁定 MT5 主程序进程名与专用交易端口
 PROCESS-NAME,terminal64.exe
 DST-PORT,1950
+DST-PORT,1951
+DST-PORT,1953
 
 # 迈达克母服务器分发域名
 DOMAIN-SUFFIX,mql5.net
