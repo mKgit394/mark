@@ -1,0 +1,25 @@
+# 迈达克母服务器分发域名
+DOMAIN-KEYWORD,metaquotes
+DOMAIN-SUFFIX,mql5.net
+DOMAIN-SUFFIX,metaquotes.net
+DOMAIN-SUFFIX,mql5.com
+
+# 自营公司 关键词
+DOMAIN-KEYWORD,ftmo
+DOMAIN-KEYWORD,the5ers
+DOMAIN-KEYWORD,fivepercenters
+
+# 其它域名
+DOMAIN-SUFFIX,icmarkets.com
+DOMAIN-SUFFIX,icm-apac-cn.com
+DOMAIN-SUFFIX,spotware.com
+DOMAIN-SUFFIX,ctrader.com
+DOMAIN-SUFFIX,pepperstone.com
+DOMAIN-SUFFIX,ftmo.com
+DOMAIN-SUFFIX,ftmo.ladesk.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,PokePay.com
+DOMAIN-SUFFIX,PokePay.cc
+
+# 域名 CMC
+DOMAIN-SUFFIX,cmcmarkets.com
