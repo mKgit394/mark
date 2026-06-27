@@ -5,30 +5,6 @@ DST-PORT,1950
 DST-PORT,1951
 DST-PORT,1953
 
-# 迈达克母服务器分发域名
-DOMAIN-KEYWORD,metaquotes
-DOMAIN-SUFFIX,mql5.net
-DOMAIN-SUFFIX,metaquotes.net
-DOMAIN-SUFFIX,mql5.com
-
-# 自营公司品牌关键词拦截（防止其使用未公开的特定三级域名解析）
-DOMAIN-KEYWORD,ftmo
-DOMAIN-KEYWORD,the5ers
-DOMAIN-KEYWORD,fivepercenters
-
-# 域名
-DOMAIN-SUFFIX,icmarkets.com
-DOMAIN-SUFFIX,icm-apac-cn.com
-DOMAIN-SUFFIX,spotware.com
-
-DOMAIN-SUFFIX,ctrader.com
-DOMAIN-SUFFIX,pepperstone.com
-DOMAIN-SUFFIX,ftmo.com
-DOMAIN-SUFFIX,ftmo.ladesk.com
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,PokePay.com
-DOMAIN-SUFFIX,PokePay.cc
-
 # 外汇平台MT4 MT5 目标IP
 IP-CIDR,13.235.160.0/22
 IP-CIDR,34.147.232.0/22
@@ -48,9 +24,6 @@ IP-CIDR,188.42.100.0/22
 IP-CIDR,203.24.96.0/22
 IP-CIDR,212.117.168.0/22
 IP-CIDR,213.196.24.0/22
-
-# 域名 CMC
-DOMAIN-SUFFIX,cmcmarkets.com
 
 # 外汇 CMC 公司 IP 流量
 IP-CIDR,194.164.0.0/16
